@@ -1,0 +1,2 @@
+default_model: weights\scope6m_f32.onnx
+folder_path: D:/000_dataset/000_NewDataset/20230627-1696
